@@ -1,7 +1,9 @@
 {
   "name": "reason-scripts",
   "sources": [
-    "src"
+    "src",
+    "src/components",
+    "src/reducercomponents"
   ],
   "bs-dependencies": [
     "reason-react",
